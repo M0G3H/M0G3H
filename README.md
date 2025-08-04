@@ -4,8 +4,8 @@
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=300&lines=Welcome+to+my+Github+Page!;I'm+M0G3H.;I+do+devops+and+security+or;Devsecops;)](https://git.io/typing-svg)  
 
-### About
-i do devops and security 
+
+    
 
 
 ### Technologies That I Use
