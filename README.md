@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=true&width=300&lines=Welcome+to+my+Github+Page!;I'm+M0G3H.)](https://git.io/typing-svg)
 
 
-## Technologies That I Know
+### Technologies That I Know
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
 </p>
 
 
-## Language i use
+### Language i use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0G3H&theme=tokyonight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M0G3H&label=Profile%20views&color=0e75b6&style=flat" alt="M0G3H" /> </p>
