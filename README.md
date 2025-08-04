@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=700&lines=Welcome+to+my+Github+Page!;I'm+M0G3H.)](https://git.io/typing-svg)
 
 
-##Technologies That I Know
+## Technologies That I Know
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
